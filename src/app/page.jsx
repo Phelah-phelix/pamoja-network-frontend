@@ -38,7 +38,7 @@ export default function LandingPage() {
         {/* ---------- hero + auth ---------- */}
         <section className="container hero" id="auth">
           <div className="hero__copy">
-            <span className="eyebrow"><Sparkles size={14} /> AI-powered chama management</span>
+            <span className="eyebrow"> AI-powered chama management</span>
             <h1>
               Karibu to <span className="accent">Pamoja&nbsp;Network</span> — where the
               village saves as one.
